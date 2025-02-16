@@ -1,0 +1,10 @@
+tensorflow 
+opencv-python 
+mediapipe 
+flask 
+fastapi 
+torch 
+torchvision 
+numpy 
+pandas 
+matplotlib
