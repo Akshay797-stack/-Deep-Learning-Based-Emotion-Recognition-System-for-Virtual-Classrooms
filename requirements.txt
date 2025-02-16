@@ -8,3 +8,12 @@ torchvision
 numpy 
 pandas 
 matplotlib
+keras 
+torchaudio 
+scikit-learn 
+seaborn  
+uvicorn 
+streamlit 
+firebase-admin 
+pymongo 
+psycopg2
